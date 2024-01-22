@@ -154,7 +154,7 @@ order by avg_VAT desc;
 select branch, sum(quantity) as qty from sales
 group by branch 
 having sum(quantity) > (select avg(quantity) from sales);
-
+ 
 -- most common product line by gender 
 
 select gender, product_line, count(gender) as total_cnt from sales 
