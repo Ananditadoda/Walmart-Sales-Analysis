@@ -1,1 +1,1 @@
-# Walmart-Sales-Analysis
+This project seeks to analyze Walmart Sales data with the goal of comprehending the highest-performing branches and products, discerning sales trends across various products, and understanding customer behavior. The objective is to investigate opportunities for enhancing and optimizing sales strategies. The dataset utilized in this exploration is sourced from the Kaggle Walmart Sales Forecasting Competition.
